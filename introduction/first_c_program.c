@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     
     // This is my first C program. (double slash is used for single line comments)
 
@@ -17,5 +17,5 @@ int main() {
     printf("First C Program!\n");
 
     return 0;
-    
+
 }
